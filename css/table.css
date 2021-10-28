@@ -1,0 +1,20 @@
+.div1 {
+    float: left;
+    display:block;
+    padding: 100px;
+}
+.div2 {
+    float: right;
+    display:block;
+    padding: 100px;
+}
+.table {
+    border: 1px solid #000;
+    flex-shrink:0;
+}
+
+.sair{
+    color: red;
+}
+
+
